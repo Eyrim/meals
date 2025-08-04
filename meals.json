@@ -1,0 +1,259 @@
+[
+    {
+        "day": {
+            "name": "Monday"
+        },
+        "meals": [
+            {
+                "name": "Katsu",
+                "ingredients": [
+                    {
+                        "name": "Chicken Breast",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Katsu Curry Sauce",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Rice",
+                        "amount": {
+                            "unit": "Gram",
+                            "value": 100.0
+                        }
+                    },
+                    {
+                        "name": "Red Onion",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "day": {
+            "name": "Tuesday"
+        },
+        "meals": [
+            {
+                "name": "Porridge",
+                "ingredients": [
+                    {
+                        "name": "Oats",
+                        "amount": {
+                            "unit": "Gram",
+                            "value": 66.0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Fried Egg",
+                "ingredients": [
+                    {
+                        "name": "Egg",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 2.0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Red",
+                "ingredients": [
+                    {
+                        "name": "Tomato",
+                        "amount": {
+                            "unit": "Gram",
+                            "value": 150.0
+                        }
+                    },
+                    {
+                        "name": "Red Pepper",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Onion",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Liquid Stock",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 0.5
+                        }
+                    },
+                    {
+                        "name": "Sausage",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 2.0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "day": {
+            "name": "Wednesday"
+        },
+        "meals": [
+            {
+                "name": "Bagel",
+                "ingredients": [
+                    {
+                        "name": "Bagel",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Omelette Thing",
+                "ingredients": [
+                    {
+                        "name": "Egg",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 2.0
+                        }
+                    },
+                    {
+                        "name": "Potato",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 4.0
+                        }
+                    },
+                    {
+                        "name": "Onion",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Tomato",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 0.5
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "day": {
+            "name": "Thursday"
+        },
+        "meals": [
+            {
+                "name": "Chicken Kebab Wrap",
+                "ingredients": [
+                    {
+                        "name": "Chicken Breast",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Garlic",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Lemon",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Liquid Stock",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 0.5
+                        }
+                    },
+                    {
+                        "name": "Leaf",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Big Tomato",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    },
+                    {
+                        "name": "Tortilla",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 2.0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "day": {
+            "name": "Friday"
+        },
+        "meals": [
+            {
+                "name": "Bangers and Mash",
+                "ingredients": [
+                    {
+                        "name": "Sausage",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 2.0
+                        }
+                    },
+                    {
+                        "name": "Potato",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 5.0
+                        }
+                    },
+                    {
+                        "name": "Gravy",
+                        "amount": {
+                            "unit": "Count",
+                            "value": 1.0
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
