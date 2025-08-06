@@ -1,6 +1,7 @@
 use std::{fmt::Display, path::PathBuf, str::FromStr};
 
 pub mod files;
+pub mod handling;
 
 #[derive(serde::Deserialize, serde::Serialize, Clone)]
 pub struct MealDay {
